@@ -1,0 +1,34 @@
+{
+    "items": {
+        "type": {
+            "category": {
+                "Entradas": {
+                    "name": "Entradas",
+                    "image": "https://blog.atau.com.br/wp-content/uploads/2019/03/opcoes-de-entrada-restaurante.jpg",
+                    "receitas": [
+                        {
+                            "name": "Queijo Brie na Air Fryer",
+                            "image": "https://i.panelinha.com.br/i1/bk-2392-ayu1139-blog.webp",
+                            "description": "Uh lala! O queijo mais famoso da Europa ganhou várias camadas de sabor ao se deparar com a AirFryer da Rita Lobo. Em pouco minutinhos, o brie francês fica mais cremoso por dentro e com a casca dourada por fora. Além de ervas frescas e mel, figos frescos acompanham pra deixar a tábua de aperitivos ainda mais vistosa.",
+                            "ingredients": [
+                                "1 queijo brie",
+                                "1/4 de colher de azeite",
+                                "1 colher de Mel",
+                                "1/4 de colher de pimenta"
+                            ],
+                            "preparation": {
+                            "1": "Com a faca de legumes, faça cortes paralelos e transversais, a cada 1,5 cm, na peça de queijo sem chegar até o fim. Com cuidado para não quebrar a peça, dê uma leve abridinha no queijo com as mãos — assim ele absorve melhor o sabor do mel, do tomilho e da pimenta.",
+                            "2": "Preaqueça a AirFryer da linha Electrolux por Rita Lobo a 160 ºC e programe para assar por 10 minutos.",
+                            "3": "Coloque o queijo numa tigela pequena ou pratinho (que possa assar na AirFryer), polvilhe a pimenta calabresa, o tomilho debulhado e regue com o azeite e o mel.",
+                            "4": "Coloque a tigela no cesto da AirFryer e preste atenção ao tempo: se o queijo brie estiver mais maduro (mais próximo da data de validade), o miolo vai ser mais macio e em 5 minutos estará no ponto, derretendo. Caso contrário (queijo mais novo e fresco), o miolo vai estar mais firme; então, deixe o queijo brie assar por cerca de 8 minutos, para ficar com o miolo macio e aquecido — os queijos mais novos não chegam a derreter na AirFryer; evite deixar assar por muito tempo, pois o queijo pode ressecar.",
+                            "5": "Sirva a seguir com pães, castanhas, frutas frescas e secas."
+                            },
+                            "time": "Pá-Pum",
+                            "serve": "4 Porcoes"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
